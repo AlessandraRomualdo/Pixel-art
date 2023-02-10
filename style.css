@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  text-align: center;
+  background: linear-gradient(45deg, #A36D90, #CF4D6F, #CC7E85, #8B2635);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vw;
+}
+
+h1 {
+  margin-top: 60px;
+  font-family: Montserrat, sans-serif;
+  color: #8B2635;
+}
+
+main {
+  margin-top: 50px;
+}
+
+ul li {
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-right: 8px;
+  cursor: grab;
+}
+
+.linha {
+  height: 40px;
+}
+
+input {
+  border-radius: 8px;
+  padding: 8px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 8px;
+  border-radius: 7px;
+  cursor: pointer;
+  margin-right: 10px;
+  font-family: Montserrat, sans-serif;
+  font-style: oblique;
+  font-weight: 100;
+  color: black;
+}
+
+.pixel {
+  cursor: progress;
+}
