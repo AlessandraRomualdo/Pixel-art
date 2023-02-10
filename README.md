@@ -1,6 +1,8 @@
 # :space_invader: Pixel-art :space_invader:
 
 Projeto feito para a Trybe de manipulação de DOM e criação de elementos HTML pelo JavaScript.
+[Link para acessar a página](https://alessandraromualdo.github.io/Pixel-art/)
+<img src= "pixel-art.png"/>
 
 ### :pushpin: 1 - Adicione à página o título "Paleta de Cores".
 ### :pushpin: 2 - Adicione à página uma paleta contendo quatro cores distintas.
@@ -13,4 +15,4 @@ Projeto feito para a Trybe de manipulação de DOM e criação de elementos HTML
 ### :pushpin: 9 - Crie uma função para selecionar uma cor na paleta de cores.
 ### :pushpin: 10 - Crie uma função que permita preencher um pixel do quadro com a cor selecionada na paleta de cores.
 ### :pushpin: 11 - Crie um botão que retorne a cor do quadro para a cor inicial.
-### :pushpin: 12 - Crie uma função para salvar e recuperar o seu desenho atual no localStorage
+### :pushpin: 12 - Crie uma função para salvar e recuperar o seu desenho atual no localStorage.
