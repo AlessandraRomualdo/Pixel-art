@@ -2,7 +2,7 @@
 
 Projeto feito para a Trybe de manipulação de DOM e criação de elementos HTML pelo JavaScript.
 [Link para acessar a página](https://alessandraromualdo.github.io/Pixel-art/)
-<img src= "pixel-art.png"/>
+<img height="250" src="pixel-art.png"/>
 
 ### :pushpin: 1 - Adicione à página o título "Paleta de Cores".
 ### :pushpin: 2 - Adicione à página uma paleta contendo quatro cores distintas.
