@@ -1,7 +1,7 @@
 # :space_invader: Pixel-art :space_invader:
 
 Projeto feito para a Trybe de manipulação de DOM e criação de elementos HTML pelo JavaScript.
-[Link para acessar a página](https://alessandraromualdo.github.io/Pixel-art/)
+[Link para acessar](https://alessandraromualdo.github.io/Pixel-art/)
 <img height="250" src="pixel-art.png"/>
 
 ### :pushpin: 1 - Adicione à página o título "Paleta de Cores".
